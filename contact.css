@@ -1,0 +1,12 @@
+html{
+background-image: url("contactpage.jpeg");
+}
+/**#background-image{
+  height:100%;
+  width:100%;
+  position: center;
+}**/
+h1{
+  font-family: ubuntu;
+  color: #e38d83;
+}

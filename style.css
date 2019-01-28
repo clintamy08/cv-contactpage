@@ -1,0 +1,99 @@
+header{
+/**background-color:#f2f7f3;**/
+width:100%
+padding:16px;
+margin:none;
+}
+h2{
+  font-style: ubuntu;
+  color:#435571;
+}
+h3{
+  font-style: ubuntu;
+  text-align:left;
+  float: left;
+  font-size: 20px;
+
+}
+h4{
+  font-style: ubuntu;
+  text-align:left;
+  float: left;
+  font-size: 20px;
+
+}
+h5{
+  font-style: ubuntu;
+  text-align:left;
+  float: left;
+  font-size: 20px;
+}
+h6{
+  font-style: ubuntu;
+  text-align:left;
+  float: left;
+  font-size: 20px;
+
+}
+div {
+  column-count: 2;
+  column-rule-width: 1px;
+  column-rule-style: none;
+  display:flex;
+  width: 150em;
+  margin: 2px;
+  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  hyphens: auto;
+
+}
+body{
+  font-style: ubuntu;
+  /**text-align: left;**/
+  background-color: #c6d6b0;
+  text-align: justify;
+   width: 50%;
+   margin: 2px;
+/**border-style: solid;
+  border-width: thin;**/
+}
+#body {
+  text-align: justify;
+}
+img{
+ border-radius: 50%;
+ float: center;
+ width: 150px;
+ height: auto;
+
+}
+body:hover {
+  font-style: ubuntu;
+  color: #e6d4a2;
+  background-color: #93a8b0;
+}
+.zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.8); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+/**div.solid{
+  border-width: : 20px;
+  border-color: black;
+  border-style: solid;
+}**/
+html{
+  font-style: ubuntu;
+/**  border : 2px solid black;
+  border-style: solid;
+  border-width: thin;**/
+  padding: 20px 20px 20px 20px;
+}
