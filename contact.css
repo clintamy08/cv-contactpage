@@ -1,5 +1,6 @@
 html{
-background-image: url("contactpage.jpeg");
+background-image: url("contactpage.jpg");
+background-size: cover;
 }
 /**#background-image{
   height:100%;
@@ -8,5 +9,5 @@ background-image: url("contactpage.jpeg");
 }**/
 h1{
   font-family: ubuntu;
-  color: #e38d83;
+  color:#c6d6b0;
 }

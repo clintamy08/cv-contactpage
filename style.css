@@ -5,31 +5,31 @@ padding:16px;
 margin:none;
 }
 h2{
-  font-style: ubuntu;
+  font-family: Ubuntu, sans-serif;
   color:#435571;
 }
 h3{
-  font-style: ubuntu;
+  font-family: Ubuntu, sans-serif;
   text-align:left;
   float: left;
   font-size: 20px;
 
 }
 h4{
-  font-style: ubuntu;
+  font-family: Ubuntu, sans-serif;
   text-align:left;
   float: left;
   font-size: 20px;
 
 }
 h5{
-  font-style: ubuntu;
+font-family: Ubuntu, sans-serif;
   text-align:left;
   float: left;
   font-size: 20px;
 }
 h6{
-  font-style: ubuntu;
+font-family: Ubuntu, sans-serif;
   text-align:left;
   float: left;
   font-size: 20px;
@@ -46,17 +46,17 @@ div {
   overflow-wrap: break-word;
   word-break: break-all;
   hyphens: auto;
+  display: grid;
 
 }
 body{
-  font-style: ubuntu;
+  font-family: Ubuntu, sans-serif;
   /**text-align: left;**/
   background-color: #c6d6b0;
   text-align: justify;
    width: 50%;
    margin: 2px;
-/**border-style: solid;
-  border-width: thin;**/
+   display: block;
 }
 #body {
   text-align: justify;
@@ -69,7 +69,7 @@ img{
 
 }
 body:hover {
-  font-style: ubuntu;
+font-family: Ubuntu, sans-serif;
   color: #e6d4a2;
   background-color: #93a8b0;
 }
@@ -91,7 +91,7 @@ body:hover {
   border-style: solid;
 }**/
 html{
-  font-style: ubuntu;
+  font-family: Ubuntu, sans-serif;
 /**  border : 2px solid black;
   border-style: solid;
   border-width: thin;**/
