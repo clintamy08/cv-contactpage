@@ -36,7 +36,7 @@ font-family: Ubuntu, sans-serif;
 
 }
 div {
-  column-count: 2;
+  column-count: 4;
   column-rule-width: 1px;
   column-rule-style: none;
   display:flex;
@@ -49,9 +49,9 @@ div {
   display: grid;
 
 }
-body{
+ body{
   font-family: Ubuntu, sans-serif;
-  /**text-align: left;**/
+  text-align: left;
   background-color: #c6d6b0;
   text-align: justify;
    width: 50%;
@@ -68,11 +68,11 @@ img{
  height: auto;
 
 }
-body:hover {
+/* body {
 font-family: Ubuntu, sans-serif;
   color: #e6d4a2;
   background-color: #93a8b0;
-}
+} */
 .zoom {
   padding: 50px;
   background-color: green;
